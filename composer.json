@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "eugensuvorov\\no-captcha\\": "src/"
+            "Anhskohbo\\NoCaptcha\\": "src/"
         }
     }
 }
